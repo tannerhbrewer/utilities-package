@@ -1,0 +1,10 @@
+{
+  "name": "com.tannerbrewer.utilities",
+  "version": "1.0.0",
+  "displayName": "Utilities",
+  "description": "A package that contains useful utilities",
+  "unity": "2020.3.27f1",
+  "author": {
+    "name": "Tanner Brewer"
+  }
+}

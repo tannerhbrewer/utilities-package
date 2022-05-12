@@ -1,3 +1,5 @@
+#if UNITY_EDITOR
+
 using UnityEditor;
 using UnityEngine;
 using static System.IO.Directory;
@@ -43,3 +45,5 @@ namespace tannerbrewer
         }
     }
 }
+
+#endif
